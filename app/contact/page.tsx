@@ -8,8 +8,8 @@ import Link from 'next/link';
 import { contactInfo } from '@/lib/constants';
 
 export const metadata: Metadata = {
-	title: 'Contact | Jhon Doe',
-	description: 'Get in touch with Jhon Doe, an M.Sc. Chemistry student from West Bengal, India, for research collaborations, academic inquiries, or professional opportunities.',
+	title: 'Contact | Raaghav Batra',
+	description: 'Get in touch with Raaghav.',
 };
 
 export default function ContactPage() {
@@ -75,7 +75,7 @@ export default function ContactPage() {
 									<span className="sr-only">LinkedIn</span>
 								</Link>
 
-								<Link
+								{/* <Link
 									href={contactInfo.socialMedia.twitter}
 									target="_blank"
 									rel="noopener noreferrer"
@@ -83,7 +83,7 @@ export default function ContactPage() {
 								>
 									<Twitter className="h-5 w-5" />
 									<span className="sr-only">Twitter</span>
-								</Link>
+								</Link> */}
 
 								<Link
 									href={contactInfo.socialMedia.github}

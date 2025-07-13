@@ -50,7 +50,7 @@ export default function Navbar() {
               href="/"
               className="text-xl md:text-2xl font-bold text-primary"
             >
-              Jhon Doe
+              Raaghav Batra
             </Link>
           </div>
 
@@ -96,9 +96,8 @@ export default function Navbar() {
 
       {/* Mobile menu */}
       <div
-        className={`md:hidden transition-all duration-300 ease-in-out ${
-          isMenuOpen ? 'max-h-64 opacity-100' : 'max-h-0 opacity-0 invisible'
-        } overflow-hidden`}
+        className={`md:hidden transition-all duration-300 ease-in-out ${isMenuOpen ? 'max-h-64 opacity-100' : 'max-h-0 opacity-0 invisible'
+          } overflow-hidden`}
         id="mobile-menu"
       >
         <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-background/95 backdrop-blur-md">

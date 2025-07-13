@@ -5,8 +5,8 @@ import ProjectCard from '@/components/projects/ProjectCard';
 import { projects } from '@/lib/constants';
 
 export const metadata: Metadata = {
-	title: 'Projects | Jhon Doe',
-	description: 'Explore the research projects and laboratory work conducted by Jhon Doe in the field of chemistry.',
+	title: 'Projects | Raaghav Batra',
+	description: 'Explore the research projects and laboratory work conducted by Raaghav Batra in the field of chemistry.',
 };
 
 export default function ProjectsPage() {

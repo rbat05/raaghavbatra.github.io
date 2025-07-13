@@ -4,8 +4,8 @@ import PageHeader from '@/components/common/PageHeader';
 import CertificateGrid from '@/components/certificates/CertificateGrid';
 
 export const metadata: Metadata = {
-	title: 'Certificates | Jhon Doe',
-	description: 'View academic and professional certificates earned by Jhon Doe in the field of chemistry.',
+	title: 'Certificates | Raaghav Batra',
+	description: 'View academic and professional certificates earned by Raaghav Batra in the field of chemistry.',
 };
 
 export default function CertificatesPage() {

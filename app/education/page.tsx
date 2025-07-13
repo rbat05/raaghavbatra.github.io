@@ -4,8 +4,8 @@ import PageHeader from '@/components/common/PageHeader';
 import EducationTimeline from '@/components/education/EducationTimeline';
 
 export const metadata: Metadata = {
-	title: 'Education | Jhon Doe',
-	description: 'Explore Jhon Doe\'s academic journey, qualifications, and achievements in the field of chemistry.',
+	title: 'Education | Raaghav Batra',
+	description: 'Explore Raaghav Batra\'s academic journey, qualifications, and achievements in the field of chemistry.',
 };
 
 export default function EducationPage() {

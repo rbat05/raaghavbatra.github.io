@@ -56,12 +56,12 @@ export const projects = [
 ];
 
 export const contactInfo = {
-	email: "Jhon Doe.karmaker@example.com",
-	phone: "+91 98765 43210",
-	address: "Kolkata, West Bengal, India",
+	email: "raaghav.batra@gmail.com",
+	phone: "+64 21 128 1735",
+	address: "Auckland, New Zealand",
 	socialMedia: {
-		linkedin: "https://linkedin.com",
-		twitter: "https://twitter.com",
-		github: "https://github.com"
+		linkedin: "https://www.linkedin.com/in/raaghav-batra-73405b317/",
+		// twitter: "https://twitter.com",
+		github: "https://github.com/rbat05"
 	}
 };

@@ -9,7 +9,7 @@ export default function Footer() {
 			<div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 				<div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 					<div>
-						<h3 className="text-lg font-semibold mb-4">Jhon Doe</h3>
+						<h3 className="text-lg font-semibold mb-4">Raaghav Batra</h3>
 						<p className="text-sm text-muted-foreground mb-4">
 							M.Sc. Chemistry Student passionate about research and innovation in chemical sciences.
 						</p>
@@ -42,7 +42,7 @@ export default function Footer() {
 								<span className="sr-only">LinkedIn</span>
 							</Link>
 							<Link
-								href="mailto:Jhon Doe.karmaker@example.com"
+								href="mailto:Raaghav Batra.karmaker@example.com"
 								className="text-muted-foreground hover:text-primary transition-colors"
 							>
 								<Mail size={20} />
@@ -103,7 +103,7 @@ export default function Footer() {
 							West Bengal, India
 						</p>
 						<p className="text-sm text-muted-foreground mb-2">
-							Jhon Doe.karmaker@example.com
+							Raaghav Batra.karmaker@example.com
 						</p>
 						<p className="text-sm text-muted-foreground">
 							+91 98765 43210
@@ -113,7 +113,7 @@ export default function Footer() {
 
 				<div className="mt-8 pt-8 border-t border-muted text-center">
 					<p className="text-sm text-muted-foreground">
-						© {currentYear} Jhon Doe. All rights reserved.
+						© {currentYear} Raaghav Batra. All rights reserved.
 					</p>
 				</div>
 			</div>

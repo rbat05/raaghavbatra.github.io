@@ -17,14 +17,14 @@ export default function AboutContent() {
 				<div className="relative rounded-lg overflow-hidden shadow-xl">
 					<Image
 						src="https://images.pexels.com/photos/3772511/pexels-photo-3772511.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-						alt="Jhon Doe in lab"
+						alt="Raaghav Batra in lab"
 						width={600}
 						height={800}
 						className="object-cover w-full h-[500px]"
 					/>
 					<div className="absolute inset-0 bg-gradient-to-t from-background/90 via-background/30 to-transparent"></div>
 					<div className="absolute bottom-0 left-0 p-6">
-						<h3 className="text-xl font-semibold mb-2">Jhon Doe</h3>
+						<h3 className="text-xl font-semibold mb-2">Raaghav Batra</h3>
 						<p className="text-muted-foreground">M.Sc. Chemistry Student</p>
 					</div>
 				</div>
@@ -40,7 +40,7 @@ export default function AboutContent() {
 				<h2 className="text-3xl font-bold mb-6">About Me</h2>
 
 				<p className="text-muted-foreground">
-					Hello! I'm Jhon Doe, a passionate M.Sc. Chemistry student from West Bengal, India, with a deep interest in research and innovation in chemical sciences. My academic journey has been driven by curiosity and a desire to contribute to sustainable solutions through chemistry.
+					Hello! I'm Raaghav Batra, a passionate M.Sc. Chemistry student from West Bengal, India, with a deep interest in research and innovation in chemical sciences. My academic journey has been driven by curiosity and a desire to contribute to sustainable solutions through chemistry.
 				</p>
 
 				<p className="text-muted-foreground">
